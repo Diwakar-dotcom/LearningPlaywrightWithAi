@@ -30,3 +30,17 @@
 6. Map: A collection of key-value pairs where keys can be of any data type, and maintains the order of insertion.
 7. Set: A collection of unique values, where each value can only occur once. 
 */
+
+let a = 10;
+let b = "Hello world";
+let c = true;
+let d = 10.15;
+let e;
+let f = null;
+
+console.log("a = ", typeof a);
+console.log("b = ", typeof b);
+console.log("c = ", typeof c);
+console.log("d = ", typeof d);
+console.log("e = ", typeof e);
+console.log("f = ", typeof f);
