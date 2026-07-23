@@ -31,7 +31,7 @@ Despite the repository name, this project focuses on **core JavaScript** — the
 
 ### What makes this different?
 
-- **52 practical code files** — learn by writing, not just reading
+- **53 code files** — learn by writing, not just reading
 - **20+ interview question (IQ) files** — test your understanding with real-world problems
 - **6,700+ lines of companion notes** — deep dives into every concept
 - **Relatable analogies** — Goa trips, milk brands, and real-world scenarios make abstract concepts stick
@@ -237,6 +237,7 @@ The `IQ_Notes/` directory contains **comprehensive study guides** generated usin
 | [Identifier Rules](IQ_Notes/Identifier_Rules_in_JavaScript.md) | 1,075 | Valid chars, naming conventions, scope, TDZ |
 | [V8 Engine](IQ_Notes/V8_Engine.md) | 839 | Ignition + TurboFan, hidden classes, garbage collection, deoptimization |
 | [VS Code Mac Shortcuts](IQ_Notes/VS_Code_Mac_Shortcuts.md) | 583 | Comprehensive macOS shortcut reference |
+| [Switch Statement in JavaScript](IQ_Notes/Switch_Statement_in_JavaScript.md) | 1,462 | Deep guide: switch syntax, fall-through, internals, 28-section interview prep |
 | [Source vs Bytecode vs Binary](IQ_Notes/source_vs_bytecode_vs_binary.md) | 53 | Three-tier execution model |
 
 The `IMP_Prompts/` directory contains the **prompt template** (`explain-me-skill-prompt.md`) used to generate these notes — a structured 28-section format that ensures consistent, production-quality documentation.
@@ -282,4 +283,6 @@ This project is for **educational purposes**. Feel free to fork, study, and shar
 
 <p align="center">
   <b>JavaScript is the language of the web.<br>Master the fundamentals, and everything else is just syntax.</b>
+</p>
+</b>
 </p>
