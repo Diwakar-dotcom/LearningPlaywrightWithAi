@@ -11,7 +11,7 @@ console.log("------------------------------");
 console.log(url.startsWith("https:")); // return true ? - because our string starts with https:
 console.log(url.endsWith(".com")); // returns true ? - because our string ends with .com
 console.log(url.endsWith("google")); // return false ? - because our string doesn't ends with google.
-
+    
 console.log("------------------------------");
 // To get the index of particular string - you can use the below string methods
 console.log(url.indexOf("w")); // return first string match index from first
